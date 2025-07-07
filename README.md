@@ -76,6 +76,8 @@ lib/
 │   └── cart_view.dart
 ```
 
+
+
 ---
 
 ## 🧑‍💻 Author
@@ -86,3 +88,8 @@ lib/
 Flutter Developer
 Email: [salahswidan212@gmail.com](mailto:salahswidan212@gmail.com)
 
+
+
+![Screenshot_1751900341](https://github.com/user-attachments/assets/236d2e41-0e8f-489c-9d11-a529ddbb332a)
+![Screenshot_1751900351](https://github.com/user-attachments/assets/552ea937-fa37-4b89-9174-08c2cd32b302)
+![Screenshot_1751900280](https://github.com/user-attachments/assets/02b6c299-6777-412b-9254-d1460c650ac3)
